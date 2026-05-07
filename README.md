@@ -1,7 +1,7 @@
 # Peer-To-Peer File Sharing Application
 
 ## Overview
-This is a Java-based Peer-to-Peer (P2P) file-sharing application developed for the **CSCI 21023** course.  
+This is a Java-based Peer-to-Peer (P2P) file-sharing application developed for the **CSCI 21023** (Data Communication and Networks) course.  
 The system utilizes **socket programming** to allow multiple clients to connect to a remote multi-threaded server for:
 
 - Uploading files
